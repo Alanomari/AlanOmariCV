@@ -533,6 +533,32 @@ body {
     100% { width: 35%; }
   }
 
+  .progress-Git {
+    background: rgba(255,255,255,0.1);
+    justify-content: flex-start;
+    border-radius: 50px;
+    align-items: center;
+    position: relative;
+    padding-left: 2px;
+    display: flex;
+    height: 10px;
+    width: 150px;
+  }
+  
+  .progress-value-Git {
+    animation: load14 3s normal forwards;
+    box-shadow: 0 10px 40px -10px #fff;
+    border-radius: 100px;
+    background: #fff;
+    height: 10px;
+    width: 0;
+  }
+  
+  @keyframes load14 {
+    0% { width: 0; }
+    100% { width: 45%; }
+  }
+
 
 
 .languages{
@@ -871,6 +897,35 @@ body {
         0% { width: 0; }
         100% { width: 35%; }
       }
+
+
+
+      .progress-Git {
+        background: rgba(255,255,255,0.1);
+        justify-content: flex-start;
+        border-radius: 50px;
+        align-items: center;
+        position: relative;
+        padding-left: 2px;
+        display: flex;
+        height: 10px;
+        width: 80px;
+      }
+      
+      .progress-value-Git {
+        animation: load14 3s normal forwards;
+        box-shadow: 0 10px 40px -10px #fff;
+        border-radius: 100px;
+        background: #fff;
+        height: 10px;
+        width: 0;
+      }
+      
+      @keyframes load14 {
+        0% { width: 0; }
+        100% { width: 45%; }
+      }
+
 
       .swedish-language {
         background: rgba(255,255,255,0.1);
