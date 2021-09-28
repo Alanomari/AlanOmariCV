@@ -102,11 +102,12 @@ text-align: left;
 .code-image{
   float: right;
   padding-top: 25em;
+  padding-left: 3em;
 }
 
 .vertical-line2{
   border-left: 2px solid rgb(168, 154, 132);
-   height: 800px;
+   height: 750px;
    position:relative;
    left: 50%;
 }
@@ -115,18 +116,20 @@ text-align: left;
 
 /*main body */
 body {
-  
+  display: flex;
+  flex-direction: column;
     margin: 0;
     font-family: 'Poppins', sans-serif;
     color: rgb(175, 175, 175);
-    height: 2700px;
-   
+    height: auto;
+    width: auto;
 
   background-image: -webkit-linear-gradient(90deg, #c2ac90 30%, #d6d0b8 60%);
 
   background-repeat: no-repeat;
 
   overflow-x: hidden;
+  
   }
 
   
@@ -613,6 +616,12 @@ body {
   0% { width: 0; }
   100% { width: 100%; }
 }
+/* end of progressbars */
+
+/*start of footer */
+
+/*end of footer */
+
 
 @media screen and (max-width: 1850px)  {
   .vertical-line{
@@ -983,7 +992,7 @@ body {
       -moz-transform: scale(0.7);
       -webkit-transform: scale(0.7);
       transform: scale(0.7);
-      padding-left: 30%;
+      padding-left: 10%;
   }
   
   .experience-container{
@@ -991,6 +1000,7 @@ body {
     -moz-transform: scale(0.7);
     -webkit-transform: scale(0.7);
     transform: scale(0.7);
+    padding-left: 10%;
   }
   
  
