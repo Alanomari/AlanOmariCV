@@ -112,7 +112,56 @@ text-align: left;
    left: 50%;
 }
 /* end of projects div */
+/*start of work experiences div */
 
+.workexperience-container{
+  margin: 0 auto;
+  color: #524949;
+  box-sizing: border-box;
+  font-family: "Open Sans";
+ padding: 0 3rem;
+ padding-left: 15em;
+ 
+ text-align: center;
+}
+.teleperformance-image{
+  float: left;
+  padding-top: 3em;
+  padding-right: 50em;
+  padding-left: 2em;
+}
+.vgr-image{
+  float: right;
+  padding-top: 2em;
+  padding-right: 2em;
+}
+
+.volvo-image{
+  float: left;
+  padding-top: 1em;
+  padding-right: 50em;
+  padding-left: 2em;
+}
+
+.jollyroom-image{
+  float: right;
+  padding-top: 1em;
+  padding-right: 8em;
+}
+.caretaker-image{
+  float: left;
+  padding-top: 1em;
+  padding-right: 50em;
+  padding-left: 10em;
+}
+
+.vertical-line3{
+  border-left: 2px solid rgb(168, 154, 132);
+   height: 1745px;
+   position:relative;
+   left: 50%;
+}
+/*End of work experiences div */
 
 /*main body */
 body {
@@ -135,12 +184,12 @@ body {
   
  
   /* Start of navbar */
-  main {
+  .main {
     position: relative;
     height: 100vh;
     display: flex;
   }
-  main .helper {
+  .helper {
     background: rgba(0, 0, 0, 0.2);
     color: #ebebeb;
     position: absolute;
@@ -153,7 +202,7 @@ body {
     font-size: 2em;
     font-weight: bold;
   }
-  main .helper span {
+  .span {
     color: rgb(231, 231, 231);
     font-size: 0.4em;
     display: block;
@@ -188,7 +237,7 @@ body {
  
  
   @media screen and (max-width: 900px) and (min-width: 400px) {
-    body {
+    .body {
       padding-left: 0%;
       
     }
@@ -631,6 +680,9 @@ body {
   .vertical-line2{
     visibility: hidden;
   }
+  .vertical-line3{
+    visibility: hidden;
+  }
 
 }
 
@@ -646,6 +698,11 @@ body {
 
 .experience-container{
   
+  -moz-transform: scale(0.9);
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9);
+}
+.workexperience-container{
   -moz-transform: scale(0.9);
   -webkit-transform: scale(0.9);
   transform: scale(0.9);
@@ -1000,6 +1057,13 @@ body {
     -moz-transform: scale(0.7);
     -webkit-transform: scale(0.7);
     transform: scale(0.7);
+    padding-left: 10%;
+  }
+
+  .workexperience-container{
+    -moz-transform: scale(0.9);
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
     padding-left: 10%;
   }
   
