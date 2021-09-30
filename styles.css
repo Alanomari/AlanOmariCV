@@ -113,7 +113,7 @@ font-family: "Open Sans";
 }
 .horizontal-line9{
    border: 1px solid rgb(168, 154, 132);
-  margin: 0 1% 0 138%;
+  margin: 0 1% 0 138.5%;
   padding-left: 16%;
   position: relative;
 }
@@ -212,7 +212,7 @@ text-align: left;
 
 .vertical-line3{
   border-left: 2px solid rgb(168, 154, 132);
-   height: 1745px;
+   height: 1950px;
    position:relative;
    left: 50%;
 }
