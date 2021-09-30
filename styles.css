@@ -281,7 +281,7 @@ body {
     width: 100px;
     border-radius: 80%;
     overflow: hidden;
-    border: 4px solid #ccccc5;
+    border: 4px solid rgb(180, 158, 133);
     box-shadow: 0 0 0 3px rgba(117, 115, 115, 0.411);
   }
   .menu .avatar h2 {
@@ -397,7 +397,7 @@ body {
   .progress-value-html {
     animation: load1 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0; 
   }
@@ -423,7 +423,7 @@ body {
   .progress-value-CSS {
     animation: load2 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0;
   }
@@ -447,7 +447,7 @@ body {
   .progress-value-C {
     animation: load3 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0;
   }
@@ -472,7 +472,7 @@ body {
   .progress-value-SQL {
     animation: load4 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0;
   }
@@ -496,7 +496,7 @@ body {
   .progress-value-EF {
     animation: load5 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0;
   }
@@ -521,7 +521,7 @@ body {
   .progress-value-MongoDB {
     animation: load6 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0;
   }
@@ -545,7 +545,7 @@ body {
   .progress-value-NET {
     animation: load7 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0;
   }
@@ -569,7 +569,7 @@ body {
   .progress-value-NETCORE {
     animation: load8 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0;
   }
@@ -593,7 +593,7 @@ body {
   .progress-value-Unity {
     animation: load9 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0;
   }
@@ -618,7 +618,7 @@ body {
   .progress-value-JavaScript {
     animation: load13 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0;
   }
@@ -643,7 +643,7 @@ body {
   .progress-value-Git {
     animation: load14 3s normal forwards;
     border-radius: 100px;
-    background: #fff;
+    background: rgb(255, 246, 233);
     height: 10px;
     width: 0;
   }
@@ -675,7 +675,7 @@ body {
 .progress-swedish {
   animation: load10 3s normal forwards;
   border-radius: 100px;
-  background: #fff;
+  background: rgb(255, 246, 233);
   height: 10px;
   width: 0;
 }
@@ -697,7 +697,7 @@ body {
 .progress-english {
   animation: load11 3s normal forwards;
   border-radius: 100px;
-  background: #fff;
+  background: rgb(255, 246, 233);
   height: 10px;
   width: 0;
 }
@@ -790,9 +790,8 @@ body {
       
       .progress-value-html {
         animation: load1 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -816,9 +815,8 @@ body {
       
       .progress-value-CSS {
         animation: load2 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -841,9 +839,8 @@ body {
       
       .progress-value-C {
         animation: load3 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -867,9 +864,8 @@ body {
       
       .progress-value-SQL {
         animation: load4 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -892,9 +888,8 @@ body {
       
       .progress-value-EF {
         animation: load5 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -918,9 +913,8 @@ body {
       
       .progress-value-MongoDB {
         animation: load6 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -943,9 +937,8 @@ body {
       
       .progress-value-NET {
         animation: load7 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -968,9 +961,8 @@ body {
       
       .progress-value-NETCORE {
         animation: load8 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -993,9 +985,8 @@ body {
       
       .progress-value-Unity {
         animation: load9 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -1019,9 +1010,8 @@ body {
       
       .progress-value-JavaScript {
         animation: load13 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -1047,9 +1037,8 @@ body {
       
       .progress-value-Git {
         animation: load14 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -1073,9 +1062,8 @@ body {
       }
       .progress-swedish {
         animation: load10 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
@@ -1096,9 +1084,8 @@ body {
       }
       .progress-english {
         animation: load11 3s normal forwards;
-        box-shadow: 0 10px 40px -10px #fff;
         border-radius: 100px;
-        background: #fff;
+        background: rgb(255, 246, 233);
         height: 10px;
         width: 0;
       }
