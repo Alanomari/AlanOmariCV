@@ -396,13 +396,10 @@ body {
   
   .progress-value-html {
     animation: load1 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
-    width: 0;
-    
-    
+    width: 0; 
   }
   
   @keyframes load1 {
@@ -425,7 +422,6 @@ body {
   
   .progress-value-CSS {
     animation: load2 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
@@ -450,7 +446,6 @@ body {
   
   .progress-value-C {
     animation: load3 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
@@ -476,7 +471,6 @@ body {
   
   .progress-value-SQL {
     animation: load4 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
@@ -501,7 +495,6 @@ body {
   
   .progress-value-EF {
     animation: load5 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
@@ -527,7 +520,6 @@ body {
   
   .progress-value-MongoDB {
     animation: load6 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
@@ -552,7 +544,6 @@ body {
   
   .progress-value-NET {
     animation: load7 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
@@ -577,7 +568,6 @@ body {
   
   .progress-value-NETCORE {
     animation: load8 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
@@ -602,7 +592,6 @@ body {
   
   .progress-value-Unity {
     animation: load9 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
@@ -628,7 +617,6 @@ body {
   
   .progress-value-JavaScript {
     animation: load13 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
@@ -654,7 +642,6 @@ body {
   
   .progress-value-Git {
     animation: load14 3s normal forwards;
-    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 10px;
@@ -687,7 +674,6 @@ body {
 }
 .progress-swedish {
   animation: load10 3s normal forwards;
-  box-shadow: 0 10px 40px -10px #fff;
   border-radius: 100px;
   background: #fff;
   height: 10px;
@@ -710,7 +696,6 @@ body {
 }
 .progress-english {
   animation: load11 3s normal forwards;
-  box-shadow: 0 10px 40px -10px #fff;
   border-radius: 100px;
   background: #fff;
   height: 10px;
