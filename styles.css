@@ -13,6 +13,21 @@
  text-align: center;
  
 }
+#btnli:hover{
+  z-index: 3;
+}
+
+#btngh:hover{
+  z-index: 3;
+}
+#btnli:focus{
+  z-index: 2;
+}
+
+#btngh:focus{
+  z-index: 2;
+}
+
 #name-title{
   color: #524949;
   font-family: "Open Sans";
