@@ -64,26 +64,26 @@ font-family: "Open Sans";
 
 .horizontal-line{
   border: 1px solid rgb(168, 154, 132);
-  margin: 0 1% 0 102%;
+  margin: 0 1% 0 103%;
   padding-left: 20%;
   position: relative;
 }
 
 .horizontal-line2{
   border: 1px solid rgb(168, 154, 132);
-  margin: 0 102% 0 -17%;
+  margin: 0 102% 0 -18%;
   padding-right: 16%;
   position: relative;
 }
 .horizontal-line3{
   border: 1px solid rgb(168, 154, 132);
-  margin: 0 1% 0 88.5%;
+  margin: 0 1% 0 89%;
   padding-left: 16%;
   position: relative;
 }
 .horizontal-line4{
   border: 1px solid rgb(168, 154, 132);
-  margin: 0 102% 0 -2.5%;
+  margin: 0 102% 0 -3%;
   padding-right: 16%;
   position: relative;
 }
@@ -117,10 +117,16 @@ font-family: "Open Sans";
   padding-left: 16%;
   position: relative;
 }
+.horizontal-line10{
+  border: 1px solid rgb(168, 154, 132);
+  margin: 0 120% 0  -39.5%;
+  padding-right: 16%;
+  position: relative;
+}
 
 .iths-image{
   float: left;
-  padding-top: 3em;
+  padding-top: 15em;
   padding-left: 6em;
 }
 .iths-text{
@@ -131,9 +137,14 @@ text-align: left;
 }
 .borås-image{
   float: right;
-  padding-top: 20em;
+  padding-top: 5em;
   padding-right: 1em;
   
+}
+.synteda-image{
+  float: right;
+  padding-top: 3em;
+  padding-right: 4em;
 }
 /* end of experience div*/
 
@@ -158,6 +169,7 @@ text-align: left;
   float: right;
   padding-top: 25em;
   padding-left: 3em;
+  
 }
 
 .vertical-line2{
@@ -748,6 +760,9 @@ body {
     visibility: hidden;
   }
   .horizontal-line8{
+    visibility: hidden;
+  }
+  .horizontal-line10{
     visibility: hidden;
   }
 
